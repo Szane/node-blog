@@ -1,0 +1,13 @@
+{
+  "name": "node-blog",
+  "version": "0.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "mongodb": "*",
+    "log4js": "*",
+    "restify": "*",
+    "restify-errors": "*"
+  },
+  "author": "Jizhe Zhang",
+  "license": ""
+}
